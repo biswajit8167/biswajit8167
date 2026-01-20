@@ -49,9 +49,7 @@ Detail-oriented Data Analyst with expertise in SQL, Python, Power BI, and Tablea
 
 ---
 
-## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ---
 
